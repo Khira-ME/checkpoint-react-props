@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+hr{
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+h2{ 
+  color :rgb(56, 4, 41);
+}
+.container {
+  margin-top: 20px;
+  padding-bottom: 10px;
+  box-shadow: rgba(133, 55, 109, 0.12) 0px 1px 6px 0px, rgba(0, 0, 0, 0.24) 0px 1px 4px 0px;
+  background-color:#ac81a4;
+}
